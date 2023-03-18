@@ -44,6 +44,37 @@ main p{
 
 
 
-
-
 /*--------------------------- Ids ---------------------------*/
+#parallax1{
+    background-image: url(../imagens/background001.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 50px -25px;
+    padding: 60px 30px;
+    box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.281);
+}
+
+#texto-background1{
+    background-color: black;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+}
+
+#parallax2{
+    background-image: url(../imagens/background002.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 50px -25px;
+    padding: 60px 30px;
+    box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.281);
+}
+
+#texto-background2{
+    background-color: black;
+    color: white;
+}
