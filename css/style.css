@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One&family=Sriracha&display=swap');
+
+:root{
+    --font-tittle: 'Passion One', cursive;
+    --font-cardel: 'Sriracha', cursive;
+}
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+/*--------------------------- Tags ---------------------------*/
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    margin-bottom: 25px;
+}
+
+header h1{
+    font-family: var(--font-tittle);
+    font-size: 10vw;
+}
+
+header p{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+main{
+    padding: 25px;
+}
+
+main p{
+    font-family: var(--font-cardel);
+    font-size: 3.5vw;
+}
+
+
+
+/*--------------------------- Class ---------------------------*/
+
+
+
+
+
+
+/*--------------------------- Ids ---------------------------*/
