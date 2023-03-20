@@ -82,8 +82,8 @@ footer{
     box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.281);
 }
 
-#texto-background1{
-    background-color: black;
+#texto-background{
+    background-color: rgba(0, 0, 0, 0.452);
     color: white;
     display: inline-block;
     padding: 10px;
@@ -100,9 +100,3 @@ footer{
     box-shadow: inset 10px 10px 10px rgba(0, 0, 0, 0.281);
 }
 
-#texto-background2{
-    background-color: rgba(0, 0, 0, 0.452);
-    color: white;
-    display: inline-block;
-    padding: 10px;
-}
