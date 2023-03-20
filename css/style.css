@@ -11,18 +11,6 @@
 }
 
 /*--------------------------- Tags ---------------------------*/
-a{
-    color: white;
-    text-decoration: none;
-    border-radius: 10px;
-    transition-duration: 1s;
-}
-
-a:hover{
-    text-decoration: underline;
-    box-shadow: 0px 0px 7px 3px rgba(255, 255, 255, 0.541);
-    padding: 5px;
-}
 
 header{
     background-color: black;
@@ -38,6 +26,19 @@ header h1{
 
 header p{
     font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    transition-duration: 1s;
+}
+
+a:hover{
+    text-decoration: underline;
+    box-shadow: 0px 0px 7px 3px rgba(255, 255, 255, 0.541);
+    padding: 5px;
 }
 
 main{
